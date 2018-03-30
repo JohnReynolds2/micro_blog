@@ -18,10 +18,5 @@ form.addEventListener("submit", function() {
 
 });
 
-//when you submit a blogpost it will populate below the search bar (i think creating a new <p> tag in the DOM?)
-//what I want to accomplish is...
-//1. removing the text in the entry form after the submit button is pressed
-//2. only show a couple past entries in the entry form
-//3. I also need to make sure the blog entries and stored in the localStorage so when you refresh the page it remembers what people said
 
 
